@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="22.34" timestamp="Mon, 05 Aug 2019 09:15:07 GMT">
+  
+    <testcase name="CoreUI Vue e2e tests" classname="test" time="22.34" assertions="2">
+
+      <failure message="Timed out while waiting for element &lt;.app&gt; to be present for 10000 milliseconds.">    at Object.CoreUI Vue e2e tests (D:\vuejs\Project\tchiao-admin\tests\e2e\specs\test.js:25:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
